@@ -1,4 +1,4 @@
-# dx8152/LTX2.3-Multifunctional - Private, Uncensored AI for Real Creators and Devs
+# dx8152/LTX2.3-Multifunctional  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
